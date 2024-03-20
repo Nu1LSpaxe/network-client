@@ -18,7 +18,13 @@
     <ClCompile Include="client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MicrosoftServer.cpp">
+    <ClCompile Include="MicrosoftClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UDPClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trojan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
